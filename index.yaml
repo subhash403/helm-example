@@ -1,3 +1,13 @@
 apiVersion: v1
-entries: {}
-generated: "2020-05-04T17:16:03.40974409+05:30"
+entries:
+  my-nginx:
+  - apiVersion: v1
+    appVersion: "1"
+    created: "2020-05-04T17:42:02.696508318+05:30"
+    description: My costum Nginx chart
+    digest: ec1586a7977f430720a04781023b5d4e77bc43a39290565e73cc48701b180645
+    name: my-nginx
+    urls:
+    - https://subhash403.github.io/helm-example/my-nginx-0.4.0.tgz
+    version: 0.4.0
+generated: "2020-05-04T17:42:02.695417972+05:30"
